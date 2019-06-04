@@ -1,0 +1,23 @@
+html {
+  background-color: olivedrab;
+}
+
+body {
+  font-family: 'Raleway', serif;
+}
+
+h1 {
+  color: #ffffff; 
+  text-align: center; 
+  margin: 40px auto;
+}
+
+main {
+  width: 70%;
+  text-align: center;
+  margin: 30px auto;
+}
+
+main img {
+  width: 300px;
+}
