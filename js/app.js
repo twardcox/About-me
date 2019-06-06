@@ -43,7 +43,7 @@ for (var i=0; i<numberOfQuestions; i++){
 
 //Pick a random number as the favorite number
 var favNumber = Math.floor(Math.random() * 10) + 1;
-//console.log('Favorite Number: '+favNumber+typeof(favNumber));
+console.log('Favorite Number: '+favNumber+typeof(favNumber));
 
 //Four tries to guess the correct number
 for (var j=0; j<4; j++){
